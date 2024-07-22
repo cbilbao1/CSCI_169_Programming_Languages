@@ -31,3 +31,24 @@
 4. HW7-2 (Scala)
 - P2: Create a function that finds the last specified element
 - P3: Create a function that merges two lists
+5. HW8P1 (Scala)
+- Initialize a generic map using a square function
+6. HW8P2 (Scala)
+- Implement the class: Binary Search Tree
+  - Node
+  - insert
+  - depth
+  - isLeaf
+  - max
+  - exactSubtree
+7.  HW9P1 (Scala)
+- P1: Simulate a for loop
+8. HW9P2 (Scala)
+- P2: Create functions for each set operation
+  - contains
+  - intersection
+  - union
+  - difference
+  - setList
+  - filter
+  - forall
